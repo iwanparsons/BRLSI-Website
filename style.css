@@ -1,0 +1,23 @@
+html, body{
+    background-color: rgb(24, 26, 27);
+}
+
+body{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 0px;
+}
+
+h1{
+    color: antiquewhite;
+}
+
+model-viewer{
+    height: 50rem;
+    width: 50rem;
+}
+
+footer{ 
+    height: 100px;
+}
