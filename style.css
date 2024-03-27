@@ -21,3 +21,8 @@ model-viewer{
 footer{ 
     height: 100px;
 }
+
+Hotspot{
+    border: black 1px;
+    border-radius: 5px;
+}
